@@ -5,7 +5,7 @@ import ChartToShow from "./ChartToShow";
 import { DragDropContext, Droppable, Draggable } from "react-beautiful-dnd";
 
 function getImageUrl(name) {
-  return new URL(`../Public/image/${name}.png`, import.meta.url).href;
+  return new URL(`./image/${name}.png`, import.meta.url).href;
 }
 
 function Menu() {
