@@ -1,24 +1,24 @@
 const ChartList = [
-  { id: "bubbleChart", name: "Bubble Chart", img: "image/BubbleChart.PNG" },
+  { id: "bubbleChart", name: "Bubble Chart", img: "BubbleChart" },
   {
     id: "combinationChart",
     name: "Combination Pie, Bar, Spline",
-    img: "image/PieBarSpline.PNG",
+    img: "PieBarSpline",
   },
-  { id: "heatMap", name: "HeatMap", img: "image/HeatMap.PNG" },
-  { id: "spiderChart", name: "SpiderChart", img: "image/SpiderChart.PNG" },
-  { id: "itemChart", name: "ItemChart", img: "image/ItemChart.PNG" },
-  { id: "treeMap", name: "TreeMap", img: "image/TreeMap.PNG" },
-  { id: "variWideChart", name: "VariWide", img: "image/VariWide.PNG" },
+  { id: "heatMap", name: "HeatMap", img: "HeatMap" },
+  { id: "spiderChart", name: "SpiderChart", img: "SpiderChart" },
+  { id: "itemChart", name: "ItemChart", img: "ItemChart" },
+  { id: "treeMap", name: "TreeMap", img: "TreeMap" },
+  { id: "variWideChart", name: "VariWide", img: "VariWide" },
   {
     id: "NegetiveBarStack",
     name: "Bar with negative stack",
-    img: "image/NegetiveBar.PNG",
+    img: "NegetiveBar",
   },
   {
     id: "PercentBarStack",
     name: "Bar with percentage stack",
-    img: "image/PercentBarStack.PNG",
+    img: "PercentBarStack",
   },
 ];
 export default ChartList;
